@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-env/commit/484cdaed62d78a2a9515f6a0800fa8d927566e05",
       "git:hexsha": "484cdaed62d78a2a9515f6a0800fa8d927566e05",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.8.0"
     },
     {
