@@ -142,7 +142,9 @@
           "githubUrl": "https://github.com/pytest-dev/pytest-mock",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/8bd22d1b9d9d7594c408040610868743ca3d5a9b/chunk-001.nq.gz",
+      "dep": "dep/8bd22d1b9d9d7594c408040610868743ca3d5a9b.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
