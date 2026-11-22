@@ -77,6 +77,71 @@
       ],
       "ast": [
         "aggregate/ast/8bd22d1b9d9d7594c408040610868743ca3d5a9b/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8bd22d1b9d9d7594c408040610868743ca3d5a9b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2",
+          "githubTag": "9.0.2",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "python-dotenv",
+          "ecosystem": "PYPI",
+          "version": "1.2.2",
+          "githubOrg": "theskumar",
+          "githubRepo": "python-dotenv",
+          "githubCommit": "36004e0e34be7665ff2b11a8a4005144f76f176d",
+          "githubTag": "v1.2.2",
+          "githubUrl": "https://github.com/theskumar/python-dotenv",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "tomli",
+          "ecosystem": "PYPI",
+          "version": "2.4",
+          "githubOrg": "hukkin",
+          "githubRepo": "tomli",
+          "githubUrl": "https://github.com/hukkin/tomli",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "covdefaults",
+          "ecosystem": "PYPI",
+          "version": "2.3",
+          "githubOrg": "asottile",
+          "githubRepo": "covdefaults",
+          "githubUrl": "https://github.com/asottile/covdefaults",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "coverage",
+          "ecosystem": "PYPI",
+          "version": "7.13.4",
+          "githubOrg": "coveragepy",
+          "githubRepo": "coveragepy",
+          "githubCommit": "4f78d57f83ff8a4976043e8a8fcea24b91891840",
+          "githubTag": "7.13.4",
+          "githubUrl": "https://github.com/coveragepy/coveragepy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-mock",
+          "ecosystem": "PYPI",
+          "version": "3.15.1",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-mock",
+          "githubCommit": "e1b5c62a38c5a05cae614aef3847f240ba50d269",
+          "githubTag": "v3.15.1",
+          "githubUrl": "https://github.com/pytest-dev/pytest-mock",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
